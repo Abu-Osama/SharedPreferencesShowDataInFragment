@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.abuosama.sharedpreferencesshowdatainfragment.FragmentTwo">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#00FFFF"
+        android:textAlignment="center"
+        android:id="@+id/textview1"
+        android:text="hello" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#00FFFF"
+        android:textAlignment="center"
+        android:id="@+id/textview2"
+        android:text="hello" />
+
+</LinearLayout>
